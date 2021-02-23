@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ABC\bin\Debug\ABC.exe.config
+C:\Users\HP\source\repos\ABC\bin\Debug\ABC.exe
+C:\Users\HP\source\repos\ABC\bin\Debug\ABC.pdb
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Form1.resources
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Login.resources
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Sample.resources
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.exe
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.pdb
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Settings.resources
+C:\Users\HP\source\repos\ABC\obj\Debug\ABC.Home.resources

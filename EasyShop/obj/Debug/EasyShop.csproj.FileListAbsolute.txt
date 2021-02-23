@@ -1,0 +1,17 @@
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Dashboared.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Form1.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Products.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Properties.Resources.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Supplier.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Transaction.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.User.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Users.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.csproj.GenerateResource.cache
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\bin\Debug\EasyShop.exe.config
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\bin\Debug\EasyShop.exe
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\bin\Debug\EasyShop.pdb
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.exe
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.pdb
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.Sale.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.UserDashboared.resources
+C:\Users\Jaminur Rashid\source\repos\EasyShop\EasyShop\obj\Debug\EasyShop.csprojAssemblyReference.cache
